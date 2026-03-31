@@ -77,6 +77,17 @@ When asked, paste the **root address of the book** on the web—the same kind of
 
 Add a license file if you distribute this project.
 
+## Disclaimer
+
+**I accept no responsibility for misuse of this tool in any form or by any means.** You alone are responsible for how you use it.
+
+- Use this software only in ways that comply with applicable laws, website terms of service, and copyright or licensing rules where you fetch content from.
+- The authors and contributors are **not liable** for any direct or indirect damage, loss, legal claims, or other consequences arising from use or misuse of this project.
+- This tool is provided **“as is”**, without warranty of any kind (including fitness for a particular purpose or non-infringement).
+- Nothing in this README grants permission to copy, distribute, or convert material you are not allowed to access or reproduce.
+
+If you are unsure whether your use is allowed, do not use this tool for that purpose.
+
 ## Author
 
 **AkiraOmran** — for HU students.
