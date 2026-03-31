@@ -1,6 +1,6 @@
 ![HU Book banner](src/banner.svg)
 
-# HU Book
+# HU Book Extractor
 
 **HU Book** (HU Book Extractor) is a small Python tool that turns web-hosted books built from static HTML into a **single PDF**, using a headless browser for each page and merging the results. The output filename comes from the book’s title when available.
 
