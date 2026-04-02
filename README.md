@@ -73,10 +73,6 @@ When asked, paste the **root address of the book** on the web—the same kind of
 - During a run, temporary PDFs are created and removed after the final file is written.
 - On Windows, the CLI uses ANSI colors; use a modern terminal if they do not show.
 
-## License
-
-Add a license file if you distribute this project.
-
 ## Disclaimer
 
 **I accept no responsibility for misuse of this tool in any form or by any means.** You alone are responsible for how you use it.
