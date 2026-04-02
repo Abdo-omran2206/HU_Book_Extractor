@@ -52,10 +52,6 @@ async def run():
             return
 
         print(Colors.YELLOW + "\n🚀 Starting conversion...\n" + Colors.RESET)
-        # محاكاة progress لكل صفحة
-        for idx, file in enumerate(pages, 1):
-            print(f"[{Colors.BLUE}{idx}/{len(pages)}{Colors.RESET}] Converting page: {file}")
-            time.sleep(0.3)  # delay لإحساس بالتقدم
 
         # تحويل حقيقي
         await scraper.convert_all()
